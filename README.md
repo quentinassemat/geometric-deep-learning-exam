@@ -1,1 +1,1 @@
-# geometric-deep-learning-exam
+# Geometric Deep Learning Exam
